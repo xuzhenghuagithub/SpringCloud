@@ -1,5 +1,5 @@
 
-from: pro-environment-1.0-client-actuator/bus-refresh
+from: pro-environment-1.0-server-actuator/bus-refresh
 
 server:
   port: 8085
