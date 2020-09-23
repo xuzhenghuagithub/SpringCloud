@@ -1,4 +1,5 @@
 from: default-environment-1.0
+config: default-[application.yml]
 
 server:
   port: 8083
