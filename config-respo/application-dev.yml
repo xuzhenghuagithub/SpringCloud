@@ -1,4 +1,4 @@
-from: dev-environment-2.0
+from: dev-environment-3.0
 
 server:
   port: 8084
