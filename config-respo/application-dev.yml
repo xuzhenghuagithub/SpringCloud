@@ -1,4 +1,4 @@
-from: dev-environment-2.0-server-actuator/bus-refresh
+from: dev-environment-1.0-client-actuator/refresh
 
 server:
   port: 8084
