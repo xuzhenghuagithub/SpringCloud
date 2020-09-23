@@ -1,4 +1,4 @@
-from: dev-environment-3.0-client-bus-refresh
+from: dev-environment-3.0-client-bus/refresh
 
 server:
   port: 8084
