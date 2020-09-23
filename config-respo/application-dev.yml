@@ -1,2 +1,4 @@
 from: dev-environment-2.0
-server.port:8084
+
+server:
+  port: 8084
